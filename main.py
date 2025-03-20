@@ -50,6 +50,7 @@ def process_sentence(index, sentence):
     请仿照萨提亚的《当我真的愿意看见自己时》的风格，为输入的自我肯定语生成一段内心旁白。
     注意适当换行以减少读者的阅读难度。分三到四段生成内心旁白。不要写诗。
     约500字。
+    必须以第一人称叙述。
     
     请严格按照以下 JSON 格式返回数据：
     {{
@@ -72,7 +73,7 @@ def process_sentence(index, sentence):
             请检查并优化以下内容：
             - 修正标点/空格问题
             - 改善语句通顺度
-            - 统一人称（第一人称）
+            - 统一人称（第一人称），必须以第一人称叙述。
             - 删除外语内容
             - 防止场景过于具体
             - 确保500字长度
@@ -203,7 +204,7 @@ def main():
 
     if choice == "1":
         # 读取整份数据
-        df = pd.read_csv("0315句子更新 - 汇总表.csv", encoding="utf-8-sig").sample(10)
+        df = pd.read_csv("0315句子更新 - 汇总表.csv", encoding="utf-8-sig").sample(100)
         df.to_csv(CACHE_FILE, index=False, encoding="utf-8-sig")  # 保存到 cache 以便断点续传
         start_index = 0
         sentences = df['自我肯定语'].dropna().tolist()
