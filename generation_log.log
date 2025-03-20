@@ -1,0 +1,185 @@
+2025-03-20 21:07:09,697 - INFO - 开始并发处理 10 条自我肯定语...
+2025-03-20 21:07:18,016 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:19,025 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:23,325 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:24,189 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:24,726 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:24,727 - WARNING - 生成失败，跳过: 每一次尝试，都让我离成功更近一步。
+2025-03-20 21:07:27,698 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:27,701 - WARNING - 生成失败，跳过: 我坚守内心的善良，不被外界动摇。
+2025-03-20 21:07:30,288 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:33,575 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:33,783 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:33,787 - WARNING - 生成失败，跳过: 我的能力总有用武之地。
+2025-03-20 21:07:36,317 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:36,320 - WARNING - 生成失败，跳过: 我温柔对待自己，如同对待最亲近的朋友一样。
+2025-03-20 21:07:36,724 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:42,750 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:42,754 - WARNING - 生成失败，跳过: 今天的我比昨天更近梦想。
+2025-03-20 21:07:47,563 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:47,566 - WARNING - 生成失败，跳过: 我允许自己犯错，因为这是成长的一部分。
+2025-03-20 21:07:49,606 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:50,836 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:50,837 - WARNING - 生成失败，跳过: 我的幸福感知能力让我行动更加有力量。
+2025-03-20 21:07:53,246 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:54,630 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:59,543 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:07:59,546 - WARNING - 生成失败，跳过: 我正在尽我所能，我也乐在其中。
+2025-03-20 21:08:00,271 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:08:00,274 - WARNING - 生成失败，跳过: 我是自己人生的缔造者。
+2025-03-20 21:08:04,664 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:08:04,667 - WARNING - 生成失败，跳过: 我就是我，在这个纷扰的世界中不尽相同。
+2025-03-20 21:08:04,670 - INFO - 结果文件 自我肯定语_生成旁白.csv 不存在，将新建文件并保存成功数据
+2025-03-20 21:08:04,673 - WARNING - ⚠️ 失败数据已保存至 fail_data.csv
+2025-03-20 21:10:25,517 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:10:37,242 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:10:37,253 - WARNING - 生成失败，跳过: 我学会接受遗憾，因为这是我成长的一部分。
+2025-03-20 21:10:37,255 - INFO - 结果文件 自我肯定语_生成旁白.csv 不存在，将新建文件并保存成功数据
+2025-03-20 21:10:37,257 - WARNING - ⚠️ 失败数据已保存至 fail_data.csv
+2025-03-20 21:12:00,248 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:12:15,752 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:12:28,447 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:12:28,449 - WARNING - 生成失败，跳过: 我有信心迎接每一个新开始。
+2025-03-20 21:12:28,452 - INFO - 结果文件 自我肯定语_生成旁白.csv 不存在，将新建文件并保存成功数据
+2025-03-20 21:12:28,456 - WARNING - ⚠️ 失败数据已保存至 fail_data.csv
+2025-03-20 21:13:53,976 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:14:10,952 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:14:24,089 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:14:24,093 - INFO - 结果文件 自我肯定语_生成旁白.csv 不存在，将新建文件并保存成功数据
+2025-03-20 21:14:24,097 - INFO - ✅ 结果已追加保存至 自我肯定语_生成旁白.csv
+2025-03-20 21:14:24,097 - INFO - 🎉 所有数据处理成功，无失败数据
+2025-03-20 21:14:49,025 - INFO - 开始并发处理 10 条自我肯定语...
+2025-03-20 21:14:58,691 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:00,730 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:02,603 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:03,263 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:09,959 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:09,962 - WARNING - 生成失败，跳过: 我在聆听我的内在声音。
+2025-03-20 21:15:10,223 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:10,852 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:11,570 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:11,573 - WARNING - 生成失败，跳过: 我愿意积极面对每一天。
+2025-03-20 21:15:11,697 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:20,135 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:21,814 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:25,088 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:29,791 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:30,087 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:33,418 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:33,421 - WARNING - 生成失败，跳过: 我喜欢自己的样子，不因他人评价而改变。
+2025-03-20 21:15:33,709 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:33,713 - WARNING - 生成失败，跳过: 冲突过后，我依然能和他人构建信任。
+2025-03-20 21:15:34,304 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:34,310 - WARNING - 生成失败，跳过: 我明白爱护自己比自责更重要。
+2025-03-20 21:15:44,526 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:15:44,527 - WARNING - JSON 解析失败: Expecting ':' delimiter: line 3 column 251 (char 457), 跳过该条数据: {
+    "内容": "即使在眼前困难重重的时刻，我告诉自己要保持友善和沉静。世间变化无常，谁会借机向我伸以援手呢。我多么渴望像过去那样，轻易就能过上惬意的生活，但现在却陷入了困境。巨大的身心压力如同连绵的群山，让我几乎喘不过气来。但突然间，心底涌起的思绪提醒我，能够啃下眼前的‘硬骨头’，那是攀登人生高峰的荣耀，再大的风霜只能阻挡我过去的稚嫩，而不是我奔向顶峰的步伐。我只能面对风波，带着灿烂的笑容前行。",
+    "努力做到友善，实则变幻莫测、困难重重。在情绪复杂的世界中，友善恰似那黑暗中透出的一束光。虽然不易察觉，可一旦深入思考，就会发现其根基坚实。人性中的喜怒哀乐交织不断，在友善的包容下，与外部世界达到和谐，从而拓展了人生的空间。不沉陷于困苦，是内心沉淀的力量，不至于让自己在困境中潦草了事。尽管当今社会的潮流汹涌且命运令人焦虑，但我依然拥有心中的避风港。那是一个蕴含温暖的情感深井，我在其中扎根，便成了各种情绪碰撞下独有的壮丽美景。幸好，我保留了这份沉静与爱，它们将成为我迈向新征程的全部动力。",
+    "我将把这种奋力迈向风浪中所保持的友善与淡定，一直延续到未来。前方的路或许布满荆棘、危机四伏、环境变幻莫测。但如果遵循善良智慧的心去观察远方，用冷静的心清除内心骚动，那么即便在坎坷的道路上，我所做的一切都旨在取得成就。回顾过往，这些经历也将让我的行为成为后人效仿的榜样。这就是我在经历曲折后所悟出的真谛——只有真正做到明明白白，我才能深刻地去砥砺自己的行为，塑造属于自己的人生里程碑。"
+}
+2025-03-20 21:15:44,528 - WARNING - 生成失败，跳过: 即使在最困难的时刻，我也会保持善意和冷静，因为这是通往更好自我的必经之路。
+2025-03-20 21:15:44,529 - INFO - 结果文件 自我肯定语_生成旁白.csv 已存在，将追加保存成功数据
+2025-03-20 21:15:44,533 - INFO - ✅ 结果已追加保存至 自我肯定语_生成旁白.csv
+2025-03-20 21:15:44,535 - WARNING - ⚠️ 失败数据已保存至 fail_data.csv
+2025-03-20 21:19:57,458 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:19:57,470 - INFO - 结果文件 自我肯定语_生成旁白.csv 已存在，将追加保存成功数据
+2025-03-20 21:19:57,470 - INFO - 🎉 所有数据处理成功，无失败数据
+2025-03-20 21:20:14,043 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:20:14,055 - INFO - 结果文件 自我肯定语_生成旁白.csv 已存在，将追加保存成功数据
+2025-03-20 21:20:14,055 - INFO - 🎉 所有数据处理成功，无失败数据
+2025-03-20 21:25:33,581 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:25:47,506 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:25:47,516 - ERROR - 处理 我的存在是对世界的一份珍重的礼物。 时发生错误: 'ChatCompletionMessage' object has no attribute 'append'
+2025-03-20 21:25:47,517 - INFO - 结果文件 自我肯定语_生成旁白.csv 不存在，将新建文件并保存成功数据
+2025-03-20 21:25:47,519 - WARNING - ⚠️ 失败数据已保存至 fail_data.csv
+2025-03-20 21:26:59,710 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:27:06,353 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:27:06,363 - ERROR - 处理 我不怕迷路，每个路口我都能重新出发。 时发生错误: 'ChatCompletionMessage' object has no attribute 'append'
+2025-03-20 21:27:06,364 - INFO - 结果文件 自我肯定语_生成旁白.csv 不存在，将新建文件并保存成功数据
+2025-03-20 21:27:06,366 - WARNING - ⚠️ 失败数据已保存至 fail_data.csv
+2025-03-20 21:27:35,689 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:27:48,131 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:27:48,141 - ERROR - 处理 我生活在一个被爱环绕的世界里。 时发生错误: 'ChatCompletionMessage' object has no attribute 'append'
+2025-03-20 21:27:48,143 - INFO - 结果文件 自我肯定语_生成旁白.csv 不存在，将新建文件并保存成功数据
+2025-03-20 21:27:48,145 - WARNING - ⚠️ 失败数据已保存至 fail_data.csv
+2025-03-20 21:31:51,977 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:32:57,196 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:33:43,779 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:33:50,906 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:34:49,806 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:35:03,743 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:35:18,923 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:35:18,927 - ERROR - 处理 我做的每个选择都在塑造更好的我.。 时发生错误: too many values to unpack (expected 2)
+2025-03-20 21:35:18,929 - INFO - 结果文件 自我肯定语_生成旁白.csv 不存在，将新建文件并保存成功数据
+2025-03-20 21:35:18,933 - WARNING - ⚠️ 失败数据已保存至 fail_data.csv
+2025-03-20 21:48:45,266 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:48:58,637 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:49:18,545 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:49:18,548 - ERROR - 处理 我不惧风雨，因为我知道自己能撑起一片天。 时发生错误: too many values to unpack (expected 2)
+2025-03-20 21:49:18,550 - INFO - 结果文件 自我肯定语_生成旁白.csv 不存在，将新建文件并保存成功数据
+2025-03-20 21:49:18,554 - WARNING - ⚠️ 失败数据已保存至 fail_data.csv
+2025-03-20 21:51:45,936 - INFO - 开始并发处理 10 条自我肯定语...
+2025-03-20 21:51:51,791 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:51:56,176 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:51:57,047 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:51:57,172 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:04,173 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:07,312 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:07,315 - WARNING - JSON 解析失败: Expecting ':' delimiter: line 8 column 160 (char 718), 跳过该条数据: {
+  "inner_monologue": "在这个忙碌的世界里，我常常感到压力如影随形。\n有些时候，工作堆得像小山一样高，似乎难以逾越，内心的焦虑也会悄然上升。\n但我深知，自己不应该永远被这种情绪淹没。\n增长智慧并不是一味地透支自己的能量，\n正如同精心栽培的花朵，也需要适时休憩、补充养分一样，\n我不断地意识到，要善待自己这朵独特的花。"
+
+  ,"每天，我总是努力地挤出时间，留给疲惫的自己。\n就像将劳累的身躯安置在温软的沙发上，轻轻闭上眼睛，深深的呼吸间，试图抛掉那些烦人的杂念和压力。\n我是能听见内心深处那个声音的，\n它在轻声地告诉我，停下来，给自己一些时间。\n静下心来的半刻，我能感受到躯体里那慢下来的心跳，稍微放下那些不能安放的重负，\n这些都是属于我自己的天地。"
+
+  :"其实，每一次艰难的抉择与尝试，都会让我感到自己的信心深层地摇摆不定。\n压力微微压在我的肩上，提醒我前进路上不可避免的磨难。\n于是我更加明白，抽出时间关注自身的需要不是逃避，而是一种特别的自我拯救。\n我能看到的不仅是工作中的成就，还有那个在工作赋予引力中仍努力寻找平衡的自己。\n我会给自己一些自由的时间，不必时刻都沉陷于忙碌与不安。\n那段时间会带着温暖的光，照亮那部分长久被自己忽略的内心角落。"
+
+  ,"当我终于能够围坐在自家的花园中，信手摘下一片绿叶，独处的宁静让我得以清晰地感受。\n那是久违的舒缓，是距离我远去又重新寻回的平静。\n我在这休憩中渐渐懂得，生活的美好并非时时围绕工作，\n有时，慢下来才是进步的前奏，\n给自己时间彻底摆脱压力，\n是为了以更富足的姿态再次前行，\n我想，我的身心都准备好了。"}
+}
+2025-03-20 21:52:07,315 - WARNING - 生成失败，跳过: 每天我会给自己时间摆脱压力。
+2025-03-20 21:52:08,530 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:13,293 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:14,535 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:16,715 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:19,436 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:24,371 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:26,227 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:30,804 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:34,082 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:35,821 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:36,413 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:39,993 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:44,628 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:52:44,640 - INFO - ✅ 结果已追加保存至 自我肯定语_生成旁白.csv
+2025-03-20 21:52:44,642 - WARNING - ⚠️ 失败数据已保存至 fail_data.csv
+2025-03-20 21:52:56,859 - INFO - 开始并发处理 1 条自我肯定语...
+2025-03-20 21:52:56,859 - INFO - 所有数据已完成，跳过处理。
+2025-03-20 21:52:56,859 - INFO - 没有新的成功数据需要保存。
+2025-03-20 21:52:56,859 - INFO - 🎉 所有数据处理成功，无失败数据
+2025-03-20 21:55:28,236 - INFO - 开始并发处理 4210 条自我肯定语...
+2025-03-20 21:55:36,744 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:55:39,111 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:55:39,725 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:55:39,985 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:55:41,058 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:01,147 - INFO - 开始并发处理 10 条自我肯定语...
+2025-03-20 21:56:07,785 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:08,705 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:09,728 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:14,338 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:14,365 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:15,976 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:21,198 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:23,348 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:23,502 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:24,517 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:28,161 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:30,004 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:31,704 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:34,304 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:35,226 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:35,841 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:38,606 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:42,290 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:46,286 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:46,409 - INFO - HTTP Request: POST https://api.moonshot.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-20 21:56:46,419 - INFO - ✅ 结果已追加保存至 自我肯定语_生成旁白.csv
+2025-03-20 21:56:46,420 - INFO - 🎉 所有数据处理成功，无失败数据
