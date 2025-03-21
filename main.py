@@ -204,10 +204,13 @@ def main():
 
     if choice == "1":
         # 读取整份数据
-        df = pd.read_csv("0315句子更新 - 汇总表.csv", encoding="utf-8-sig").sample(100)
+        # df = pd.read_csv("0315句子更新 - 汇总表.csv", encoding="utf-8-sig").sample(100)
+        df = pd.read_csv("0315句子更新 - 汇总表.csv", encoding="utf-8-sig")
+        df = df[df["权重"] == 3]
         df.to_csv(CACHE_FILE, index=False, encoding="utf-8-sig")  # 保存到 cache 以便断点续传
         start_index = 0
         sentences = df['自我肯定语'].dropna().tolist()
+        print(f"len(sentences): {len(sentences)}")
         # 使用并发处理数据（此时不忽略checkpoint，以便可以从中断处继续）
         results, fail_data = process_sentences_concurrently(sentences, start_index, ignore_checkpoint=False)
         save_results(results, fail_data)
