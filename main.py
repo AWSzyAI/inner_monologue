@@ -205,8 +205,9 @@ def main():
     if choice == "1":
         # 读取整份数据
         # df = pd.read_csv("0315句子更新 - 汇总表.csv", encoding="utf-8-sig").sample(100)
-        df = pd.read_csv("0315句子更新 - 汇总表.csv", encoding="utf-8-sig")
-        df = df[df["权重"] == 3]
+        df = pd.read_csv("自我肯定语_生成旁白(4) - Sheet1.csv", encoding="utf-8-sig")
+        # df = df[df["标注"] != "好"]
+        df = df[df["权重"] == 2]
         df.to_csv(CACHE_FILE, index=False, encoding="utf-8-sig")  # 保存到 cache 以便断点续传
         start_index = 0
         sentences = df['自我肯定语'].dropna().tolist()
